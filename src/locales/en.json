@@ -1,0 +1,6 @@
+{
+  "nav": { "home": "Home", "vendors": "Vendors", "products": "Products", "profile": "Profile", "chat": "Chat", "ai": "AI Assistant" },
+  "chat": { "start": "Send", "messagePlaceholder": "Write a message..." },
+  "auth": { "login": "Login", "register": "Register", "logout": "Logout" },
+  "vendor": { "autoResponse": "Auto response", "save": "Save" }
+}
